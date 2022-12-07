@@ -1,0 +1,232 @@
+/* main */
+.main1{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../фото/main/Rectangle\ 3.png");
+    background-size: cover;
+    height: 40rem;
+}
+.mainmaxwight1{
+    max-width: 40rem;
+    line-height: 150%;
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 3rem;
+    font-style:italic;
+    text-align: center;
+}
+.miniimgmain1{
+    width: 15rem;
+}
+.main2{
+    display: flex;
+    flex-direction: row;
+}
+#main1255{
+    width: 50%;
+    padding: 2.5em;
+    justify-items: center;
+}
+.padingclokmain{
+    padding: 2em;
+    background-color:rgba(25, 27, 28, 1);
+    height: 10rem;
+    width: 8rem;
+    z-index: 0;
+}
+#mardgentightmain2{
+    margin-left: 2rem ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#mardgentightmain23{
+    width: 1em;
+}
+.rextmainclok{
+    font-family: 'Playfair Display', serif;
+    font-style:normal;
+    font-size: 0.8em;
+    line-height: 1em;
+}
+.rextmainclok2{
+    font-family: 'Playfair Display', serif;
+    font-style:oblique;
+    font-size: 0.8em;
+}
+.sasonmain2{
+    text-align: center;
+    font-family: 'Playfair Display', serif; 
+    font-size: 1.8em;
+    color: rgba(255, 255, 255, 1); 
+}
+.poloscamain2{
+    padding: 2rem;
+    padding-bottom: 1.7em;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+.poloscamain22{
+    border-bottom: 1px white solid;
+    width: 20%;
+}
+
+#main1245{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    width: 45%;
+    background-image: url("../фото/main/Rectangle\ 8.png");
+    background-size: cover;
+}
+
+.poloscamain33{
+    border-bottom: 1px white solid;
+    width: 6em;
+}
+.bambammaib{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+.poloscamain23{
+    padding: 1.6rem;
+    padding-bottom: 1.3em;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+#katalogmain2145{
+    width: 8.5em;
+}
+#katalogmain2145:hover{
+    width: 8.5em;
+    background-color: rgba(255, 255, 255, 0.3);
+    transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear; 
+}
+
+.main3{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    /* padding: 4em; */
+}
+
+
+.main3text{
+    width: 52%;
+    padding: 4em;
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    justify-items: center;
+}
+.main3foto{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    width: 48%;
+    background-image: url("../фото/main/Rectangle\ 9.png");
+    background-size: cover;
+    height: 30em;
+}
+.main3text1{
+    font-family: 'Playfair Display', serif;
+    font-size: 2em;
+    color: white;
+}
+.main3textpolosa{
+    border-bottom:1px white solid;
+    width: 15%;
+    margin-bottom:1em ;
+    margin-top: 1em;
+}
+.main3text2{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 0.8em;
+    color: white;
+    text-align: center;
+    width: 55%;
+    line-height: 150%;
+    font-weight: 400;
+    margin-bottom: 6em;
+}
+.main3text3{
+    text-align: center;
+    color: white;
+    font-size: 0.9em;
+    font-family: 'PT Sans', sans-serif;
+    border: 0.003em white solid;
+    font-style: initial;
+    text-decoration: none;
+    letter-spacing: 10%;
+    font-weight: 400px;
+    line-height: 2em;
+    
+}
+.boom{
+    width: 30%;
+    text-decoration: none;
+}
+.boom:hover{
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.4);
+    transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+}
+
+.main4{
+    display: flex;
+    flex-direction:column ;
+    justify-items: center;
+    align-items: center;
+    padding: 6em;
+}
+
+
+#hrmain4{
+    width: 10%;
+    border-bottom: 1px white solid;
+    margin-bottom:2em ;
+}
+.hedermain4{
+    font-family: 'PT Sans', sans-serif;
+    font-style:unset;
+    color: white;
+    vertical-align: top;
+    line-height: 100%;
+    font-size: 2.5em;
+    margin: 0em 0em 0.8em 0em;
+}
+.postavimain4{
+    display: flex;
+    flex-direction: row;
+    margin: 0.8em;
+    color: white;
+}
+.main4clok{
+    padding: 2em;
+    background-color: rgba(25, 27, 28, 1);
+    border-radius: 7%;
+}
+.rostmine4{
+    width: 9em;
+    margin-bottom: 2em;
+}
+.marmine4{
+    margin-right: 2em;
+}
+.marmine41{
+    margin-right: 2em;
+}

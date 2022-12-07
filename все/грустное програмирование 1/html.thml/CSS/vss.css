@@ -1,0 +1,113 @@
+/* heder */
+html{
+    scroll-behavior:smooth;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    height: 10px;
+  }
+  
+  /* Track /
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+  }
+  
+  / Handle */
+  ::-webkit-scrollbar-thumb {
+    background:#f0f0f0;
+    border-radius: 7%;
+  }
+/* scroll-behavior: smooth; */
+body{
+    background-color: black;
+    margin: 0%;
+    height: auto;
+}
+header{
+    justify-items: center;
+    width: 100%;
+    /* border: 1px red solid; */
+}
+nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 0.2rem;
+    background-color:rgba(15, 15, 15, 1) ;
+}
+/* div{
+    border: 1px red solid;
+} */
+#phonH{
+    font-family: 'PT Sans', sans-serif;
+    color: gray;
+}
+#heder1{
+    font-family: 'PT Sans', sans-serif;
+    color: gray;
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    margin: 0.4rem;
+}
+#heder2{
+    display: flex;
+    justify-content: center;
+    
+}
+#img1H{
+    width: auto;
+    margin-right: 0.5rem;
+}
+
+#heder4{
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    align-items: center;
+    height: 4rem;
+}
+#hedet5{
+    display: flex;
+    justify-content: center;
+}
+#sdsdheder{
+    display: flex;
+}
+.textheder1{
+    height: 100%;
+    padding: 1.1rem;
+    display: flex;
+    color: rgba(255, 255, 255, 1);
+    align-items: center;
+}
+
+.textheder12{
+    height: 100%;
+    padding: 0.8rem;
+    display: flex;
+    align-items: center;
+    margin-left: 0.5rem;
+}
+.textheder2{
+    height: 100%;
+    padding: 0.8rem;
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+#ahed1{
+    color: rgba(150, 150, 150, 1);
+    text-decoration: none;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.textheder1:hover {
+    color: #fff;
+    background: rgba(149, 149, 149, 0.316);
+    border-radius: 7%;
+    transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear; 
+}
